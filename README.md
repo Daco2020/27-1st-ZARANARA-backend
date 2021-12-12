@@ -1,5 +1,6 @@
 # 27-1st-ZARANARA-backend
 > 가구 및 생활 소품 판매를 하는 다국적 기업인 [**ZARA HOME**](https://www.zarahome.com/kr/)를 클론 코딩한 **ZARANARA**팀 입니다! 
+[![ZARA NARA](https://i9.ytimg.com/vi/FcAsqBHru94/mq1.jpg?sqp=CJD01o0G&rs=AOn4CLBI-Iig-OBKmEps1E2GL3XdWYsZBg)](https://youtu.be/FcAsqBHru94)
 
 </br>
 
